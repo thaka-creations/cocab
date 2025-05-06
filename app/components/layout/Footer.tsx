@@ -47,7 +47,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="text-gray-300">Email: cocabsolutions@gmail.com</li>
               <li className="text-gray-300">Phone: (254) 729 522 550</li>
-              <li className="text-gray-300">Address: 123 Business St, Suite 100</li>
+              <li className="text-gray-300">Address: Jiram Properties, Ruaka Business Center, Room 16, Aling Limuru Road</li>
             </ul>
           </div>
         </div>
