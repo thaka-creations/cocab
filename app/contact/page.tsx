@@ -124,7 +124,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Office Location</h3>
-                    <p className="text-gray-600 mt-1">Jiram Properties, Ruaka Business Center, Room 16, Aling Limuru Road<br />Nairobi, Kenya</p>
+                    <p className="text-gray-600 mt-1">Jiram Properties, Ruaka Business Center, Room 16, Along Limuru Road<br />Nairobi, Kenya</p>
                   </div>
                 </div>
 
